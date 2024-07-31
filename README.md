@@ -1,11 +1,15 @@
 # [Cyclistic Bike Share Data Analysis](https://github.com/Dhanushwr/Cyclistic-Bike-Share-data-analysis/blob/main/Cyclistic%20analysis%20report.pdf)
 
+---
+
 ## **_Table of contents_**
 
 1. [Overview](#Overviw)
 2. [Project Details](#ProjecT-Details)
 3. [Conclusion](#Conclusion)
 4. [License](#License)
+
+---
 
 ## _**Overview**_
 
@@ -68,6 +72,8 @@ Data Transformation: Creation of new columns for ride duration, start and end ho
 ## _**Conclusion**_
 
 The analysis aims to provide data-driven recommendations to Cyclistic's executive team to secure approval for proposed marketing initiatives. By understanding the differences in usage patterns between casual riders and annual members, Cyclistic can develop targeted marketing strategies to increase annual memberships.
+
+---
 
 ## _**License**_
 
