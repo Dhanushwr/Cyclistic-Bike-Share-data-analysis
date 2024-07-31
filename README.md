@@ -51,11 +51,11 @@ Data Transformation: Creation of new columns for ride duration, start and end ho
 
 - Weekly Bike Ridership: Analysis of weekly ridership patterns.
 
-- Hourly Bike Ridership: Analysis of hourly riderhsip patterns.
+- Hourly Bike Ridership: Analysis of hourly ridership patterns.
 
-- Rountrip analysis: Count of casual and annumal members taking round trips throughout the period.
+- Roundtrip analysis: Count of casual and annual members taking round trips throughout the period.
 
-- Departure hotspots: Identifying points with more 5000 casual riders start their trips.
+- Departure hotspots: Identifying points with more than 5000 casual riders who start their trips.
 
 ### Tools Used:-
 
