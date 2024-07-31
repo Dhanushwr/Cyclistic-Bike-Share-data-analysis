@@ -41,6 +41,7 @@ The analysis utilizes Cyclistic’s historical bike trip data from June 2023 to 
 ### Data Processing:-
 
 Data Quality Issues: Missing values for station identifiers, names, and geographic coordinates; inconsistencies in ride start and end times.
+
 Data Transformation: Creation of new columns for ride duration, start and end hours, and day of the week. Handling of missing values and consolidation of data into a unified dataset using Google BigQuery.
 
 ### Analysis:-
