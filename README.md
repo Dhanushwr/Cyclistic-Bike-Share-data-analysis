@@ -1,5 +1,12 @@
 # [Cyclistic Bike Share Data Analysis](https://github.com/Dhanushwr/Cyclistic-Bike-Share-data-analysis/blob/main/Cyclistic%20analysis%20report.pdf)
 
+## **_Table of contents_**
+
+1. [Overview](#Overviw)
+2. [Project Details](#ProjecT-Details)
+3. [Conclusion](#Conclusion)
+4. [License](#License)
+
 ## _**Overview**_
 
 This repository contains the analysis of Cyclistic's historical bike trip data. The objective is to identify key differences between casual riders and annual members, with the ultimate goal of informing a marketing strategy aimed at converting casual riders into annual members.
