@@ -69,6 +69,16 @@ Data Transformation: Creation of new columns for ride duration, start and end ho
 
 - Data communication: [Powerpoint](https://github.com/Dhanushwr/Cyclistic-Bike-Share-data-analysis/blob/main/Cyclistic%20data%20report%20presentation.pptx)
 
+### Findings:-
+
+1. Customer Segmentation: The customer base is distinctly divided into casual riders and members with differing ride behaviors and preferences.
+
+2. Ride Behavior: Casual riders exhibit higher ride frequency and a preference for round trips, while members demonstrate longer ride durations and weekday usage.
+
+3. Bike Preference: Both segments favour electric and classic bikes, but casual riders lean towards docked bikes.
+
+4. Market Opportunity: High-departure locations offer significant potential for targeted marketing campaigns, especially for casual riders.
+
 ## _**Conclusion**_
 
 The analysis aims to provide data-driven recommendations to Cyclistic's executive team to secure approval for proposed marketing initiatives. By understanding the differences in usage patterns between casual riders and annual members, Cyclistic can develop targeted marketing strategies to increase annual memberships.
