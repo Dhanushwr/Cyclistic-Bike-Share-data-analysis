@@ -54,7 +54,7 @@ Data Transformation: Creation of new columns for ride duration, start and end ho
 
 - Data Manipulation: Excel, SQL, Google BigQuery
 
-- Data Visualization: Tableau
+- Data Visualization: [Tableau](https://public.tableau.com/views/Combined_17220120285060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - Data communication: Powerpoint
 
