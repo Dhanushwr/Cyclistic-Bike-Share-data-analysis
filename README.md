@@ -65,10 +65,10 @@ Data Transformation: Creation of new columns for ride duration, start and end ho
 
 - Data communication: [Powerpoint](https://github.com/Dhanushwr/Cyclistic-Bike-Share-data-analysis/blob/main/Cyclistic%20data%20report%20presentation.pptx)
 
-## _Conclusion:-_
+## _**Conclusion:-**_
 
 The analysis aims to provide data-driven recommendations to Cyclistic's executive team to secure approval for proposed marketing initiatives. By understanding the differences in usage patterns between casual riders and annual members, Cyclistic can develop targeted marketing strategies to increase annual memberships.
 
-## _License:-_
+## _**License**_
 
 The dataset is publicly available under the license provided by Motivate International Inc. [Cyclistic Data License Agreement.](https://divvybikes.com/data-license-agreement)
