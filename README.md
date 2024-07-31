@@ -56,7 +56,7 @@ Data Transformation: Creation of new columns for ride duration, start and end ho
 
 - Data Visualization: [Tableau](https://public.tableau.com/views/CyclisticBikeshareanalysisJune2023toJune2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- Data communication: Powerpoint
+- Data communication: [Powerpoint](https://github.com/Dhanushwr/Cyclistic-Bike-Share-data-analysis/blob/main/Cyclistic%20data%20report%20presentation.pptx)
 
 ## _Conclusion:-_
 
